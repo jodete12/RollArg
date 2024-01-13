@@ -1,0 +1,61 @@
+
+a:hover {
+    text-decoration: underline;
+}
+body{
+    background: linear-gradient(90DEG,white ,blue, rgb(174, 0, 255), brown, black);
+    border: 1cap solid black;
+    text-align: left;
+   } 
+    main{
+    margin-left: 3px;
+    border: 1PX solid grey;
+    margin-top: 1cm;
+    margin-right: 3cm;
+    margin-left: 8cm;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    padding: 1px;
+    text-align: center;
+}
+a{
+    text-align: center;
+}
+
+li {
+    text-align: center;
+    margin-left: 4px;
+    background-color: rgba(24, 102, 192, 0.877);
+    color: cadetblue;
+    border: 1px solid black;
+aside {
+    border: 1cm solid black;
+    padding: 2cm;
+    margin-left: 5cm;
+    margin-bottom: 2cm;
+    margin-right:2cm;
+    background-color: rgba(31, 98, 199, 0.692);
+    text-align-last: center;
+    font-size: 16px;
+    color: rgba(255, 255, 255, 0.815);
+}
+article {
+    text-align: center;
+    border: 2px solid black;
+    margin-top: 5cm, 0;
+    margin-bottom: 20cm, 20;
+    margin-left: 1cm;
+    margin-right: 7cm;
+    padding: 1px;
+    background-color: rgba(255, 255, 255, 0.589);
+    color:blue;
+}
+h1{
+    text-align: center;
+    font-size: larger;
+}
+h2 {
+ margin-bottom: 1px;
+ margin-top: 1px;
+ -webkit-text-fill-color: rgb(255, 255, 255);
+}

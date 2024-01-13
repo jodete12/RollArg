@@ -1,0 +1,6 @@
+body
+{
+    background: linear-gradient(90DEG,white ,blue, rgb(174, 0, 255), brown, black);
+    border: 1px solid black;
+    text-align: left;
+}
